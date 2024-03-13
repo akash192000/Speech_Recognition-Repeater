@@ -21,7 +21,7 @@ pip install pyaudio
 
 ## Usage
 
-1. Run the Python script `speech_recognition_repeater.py`.
+1. Run the Python script `Speech_Recognition_Repeater.ipynb`.
 2. Once the program starts, it will ask you to maintain silence briefly to adjust for ambient noise.
 3. After that, it will prompt you to speak.
 4. Speak clearly into the microphone.
